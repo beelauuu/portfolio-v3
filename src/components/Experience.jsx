@@ -13,7 +13,7 @@ const experienceData = [
     date: "May 2025",
     title: "Software Development Engineering Intern @ Palantir - Gotham",
     description: [
-      "• Incoming software engineer intern on the Gotham product (Defense Tech, Summer 2024)",
+      "• Incoming software engineer intern on the Gotham product (Defense Tech, Summer 2025)",
     ],
     icon: <SiPalantir />,
     iconColor: "#000",
